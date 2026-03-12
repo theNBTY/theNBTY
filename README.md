@@ -50,7 +50,7 @@ Always learning. Always building.
 
 ### Portfolio
 
-> 🌐 Get to know me through [My Website](thenbty.wasmer.app) too.
+> 🌐 Get to know me through [My Website](https://thenbty.wasmer.app/) too.
 
 ---
 
