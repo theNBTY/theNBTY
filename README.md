@@ -42,7 +42,7 @@ Always learning. Always building.
 ### Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=theNBTY&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theNBTY&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theNBTY&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
 
